@@ -1,0 +1,45 @@
+body {
+	background-color: #5b5b5b;
+}
+.class-1 {
+	color: rgba(255 , 0 , 0 , 0.5);
+}
+.class-2 {
+	color: #c1a7a0;
+}
+.class-3 {
+	color: #4286f4;
+}
+.class-4 {
+	color: #8cd8b5;
+}
+.class-5 {
+	color: #a0d88c;
+}
+.class-6 {
+	color: #be8cd8;
+}
+.class-7 {
+	color: #d88ccf;
+}
+.class-8 {
+	color: #909323;
+}
+.class-9 {
+	color: #c0c1a0;
+}
+
+ul li {
+	font-size: 35px;
+}
+ul li span {
+	color: red;
+}
+body>a {
+	color: green;
+	text-align: none;
+	font-size: 50px;
+}
+p a {
+	color: rgba(255 , 255 , 255 , 0.5);
+}
